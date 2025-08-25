@@ -1,0 +1,17 @@
+E:\ItiProject_GRD.BLL\bin\Debug\net9.0\ItiProject_GRD.BLL.deps.json
+E:\ItiProject_GRD.BLL\bin\Debug\net9.0\ItiProject_GRD.BLL.dll
+E:\ItiProject_GRD.BLL\bin\Debug\net9.0\ItiProject_GRD.BLL.pdb
+E:\ItiProject_GRD.BLL\bin\Debug\net9.0\ItiProject_GRD.DLL.dll
+E:\ItiProject_GRD.BLL\bin\Debug\net9.0\ItiProject_GRD.DLL.pdb
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.csproj.AssemblyReference.cache
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.AssemblyInfoInputs.cache
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.AssemblyInfo.cs
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.csproj.CoreCompileInputs.cache
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProje.B09FC7FD.Up2Date
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.dll
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\refint\ItiProject_GRD.BLL.dll
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.pdb
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ref\ItiProject_GRD.BLL.dll
+E:\ItiProject_GRD.BLL\bin\Debug\net9.0\ItiProject_GRD.BLL.runtimeconfig.json
+E:\ItiProject_GRD.BLL\obj\Debug\net9.0\ItiProject_GRD.BLL.genruntimeconfig.cache
