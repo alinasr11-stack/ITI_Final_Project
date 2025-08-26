@@ -3,53 +3,91 @@
   "WorkspaceRootPath": "E:\\ItiProject_GRD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\graderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\igraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\viewmodels\\courselistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\viewmodels\\coursevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\options\\paginationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:options\\paginationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\views\\shared\\_courseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\shared\\_courseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\itiproject_grd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\services\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\viewmodels\\gradevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\services\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\viewmodels\\sessionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\vaildations\\nonumberattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\vaildations\\dateafterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\itiproject_grd.bll\\vaildations\\futuredateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|e:\\itiproject_grd.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,8 +97,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\ItiProject_GRD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T16:09:34.29Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -71,197 +122,311 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GradeRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\GradeRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\GradeRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\GradeRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\GradeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:56:06.184Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "E:\\ItiProject_GRD\\Views\\Course\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T16:06:06.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\UserRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "CourseListVM.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:53:44.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\IUserRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:53:08.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SessionRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\SessionRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\SessionRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\SessionRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\SessionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:52:05.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ISessionRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\ISessionRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\ISessionRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\ISessionRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\ISessionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:51:31.61Z"
+              "WhenOpened": "2025-08-26T16:05:21.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\CourseRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\CourseRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\CourseRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Title": "PaginationOptions.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Options\\PaginationOptions.cs",
+              "RelativeDocumentMoniker": "Options\\PaginationOptions.cs",
+              "ToolTip": "E:\\ItiProject_GRD\\Options\\PaginationOptions.cs",
+              "RelativeToolTip": "Options\\PaginationOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:45:04.236Z"
+              "WhenOpened": "2025-08-26T15:46:41.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\GenericRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Delete.cshtml",
+              "ToolTip": "E:\\ItiProject_GRD\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:17:47.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "E:\\ItiProject_GRD\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:19:31.748Z",
+              "WhenOpened": "2025-08-26T09:06:44.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseVM.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:16:49.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IGradeRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\IGradeRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\IGradeRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\IGradeRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\IGradeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:54:26.532Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "E:\\ItiProject_GRD\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:17:13.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICourseRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\ICourseRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\ICourseRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\ICourseRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\ICourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:44:02.395Z"
+              "DocumentIndex": 10,
+              "Title": "_CourseForm.cshtml",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Views\\Shared\\_CourseForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CourseForm.cshtml",
+              "ToolTip": "E:\\ItiProject_GRD\\Views\\Shared\\_CourseForm.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CourseForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:16:00.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Repository\\IGenericRepository.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Repository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:18:31.288Z"
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ItiProject_GRD\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "E:\\ItiProject_GRD\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:17:28.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:46:14.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\ItiProject_GRD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T12:52:17.576Z"
+              "WhenOpened": "2025-08-25T18:48:12.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:35:51.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Grade.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\Grade.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\Grade.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\Grade.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\Grade.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:27:14.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\User.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\User.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBcAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:25:23.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Session.cs",
-              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\Session.cs",
-              "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\Session.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\Session.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:23:14.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Course.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\Course.cs",
               "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\Course.cs",
               "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\Course.cs",
               "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\Course.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:13:02.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:56:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:01:58.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\UserService.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:02:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGradeService.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBGwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:04:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIBGwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:05:42.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GradeVM.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBGwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:55:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBGwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:49:55.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SessionVM.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAABOwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:47:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DateAfterAttribute.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:34:12.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\Session.cs",
+              "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\Session.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBGwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:23:14.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FutureDateAttribute.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:24:00.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NoNumberAttribute.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
+              "ToolTip": "E:\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:22:52.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAMBSwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:35:51.729Z"
             }
           ]
         }
