@@ -1,0 +1,32 @@
+﻿@model ItiProject_GRD.BLL.ViewModels.SessionVM
+
+@{
+    ViewData["Title"] = "Add Session";
+}
+
+<h2>Add Session</h2>
+
+@* عرض رسائل الخطأ/نجاح *@
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    @await Html.PartialAsync("_SessionForm", Model)
+</form>
+
+<p>
+    <a asp-action="Index" asp-route-courseId="@Model.CourseId" class="btn btn-secondary">Back to Sessions</a>
+</p>

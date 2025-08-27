@@ -1,39 +1,45 @@
-﻿@model ItiProject_GRD.BLL.ViewModels.CourseListVM
+﻿@model ItiProject_GRD.BLL.ViewModels.SessionListVM
 
 @{
-    ViewData["Title"] = "Courses List";
+    ViewData["Title"] = "Sessions List";
 }
 
-<h2>Courses</h2>
+<h2>Sessions</h2>
 
 @* 🔔 Messages *@
 @if (TempData["Success"] != null)
 {
     <div class="alert alert-success alert-dismissible fade show" role="alert">
         @TempData["Success"]
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
     </div>
 }
 @if (TempData["Error"] != null)
 {
     <div class="alert alert-danger alert-dismissible fade show" role="alert">
         @TempData["Error"]
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
     </div>
 }
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">
-        <i class="bi bi-plus-circle"></i> Add New Course
-    </a>
-</p>
+@* Back to Course Index *@
+@if (ViewBag.CourseId != null)
+{
+    <p>
+        <a asp-controller="Course" asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to Courses
+        </a>
+        <a asp-action="Create" asp-route-courseId="@ViewBag.CourseId" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Add New Session
+        </a>
+    </p>
+}
 
 @* Search + Page Size *@
 <form asp-action="Index" method="get" class="mb-3 row g-2 align-items-center">
-
     <div class="col-md-3">
         <input type="text" name="search" class="form-control"
-               placeholder="Search by name..." value="@Model.Search" />
+               placeholder="Search by course name..." value="@Model.Search" />
     </div>
 
     <div class="col-md-2">
@@ -50,40 +56,34 @@
     </div>
 
     <input type="hidden" name="page" value="1" />
+    @if (ViewBag.CourseId != null)
+    {
+        <input type="hidden" name="courseId" value="@ViewBag.CourseId" />
+    }
 </form>
 
-@* Courses Table *@
+@* Sessions Table *@
 <table class="table table-bordered table-striped">
     <thead>
         <tr>
-            <th>Name</th>
+            <th>Course</th>
             <th>Start Date</th>
             <th>End Date</th>
-            <th>Instructor</th>
             <th>Actions</th>
         </tr>
     </thead>
     <tbody>
         @if (Model.Items.Any())
         {
-            @foreach (var course in Model.Items)
+            @foreach (var session in Model.Items)
             {
                 <tr>
-                    <td>@course.Name</td>
-                    <td>@course.StartDate.ToString("yyyy-MM-dd")</td>
-                    <td>@course.EndDate.ToString("yyyy-MM-dd")</td>
-                    <td>@course.InstructorId</td>
+                    <td>@session.CourseName</td>
+                    <td>@session.StartDate.ToString("yyyy-MM-dd")</td>
+                    <td>@session.EndDate.ToString("yyyy-MM-dd")</td>
                     <td>
-                        <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-sm btn-warning">Edit</a>
-                        <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-sm btn-danger">Delete</a>
-
-                        <!-- زرار Add Session -->
-                        <a asp-controller="Session" asp-action="Create" asp-route-courseId="@course.Id"
-                           class="btn btn-sm btn-success">Add Session</a>
-
-                        <!-- زرار View Sessions -->
-                        <a asp-controller="Session" asp-action="Index" asp-route-courseId="@course.Id"
-                           class="btn btn-sm btn-info">View Sessions</a>
+                        <a asp-action="Edit" asp-route-id="@session.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@session.Id" class="btn btn-sm btn-danger">Delete</a>
                     </td>
                 </tr>
             }
@@ -91,7 +91,7 @@
         else
         {
             <tr>
-                <td colspan="5" class="text-center">No courses found.</td>
+                <td colspan="4" class="text-center">No sessions found.</td>
             </tr>
         }
     </tbody>
@@ -100,7 +100,7 @@
 @* Pagination *@
 @if (Model.TotalPages > 1)
 {
-    <nav aria-label="Course pagination">
+    <nav aria-label="Session pagination">
         <ul class="pagination justify-content-center">
 
             <li class="page-item @(Model.Page == 1 ? "disabled" : "")">
@@ -108,6 +108,7 @@
                    asp-action="Index"
                    asp-route-search="@Model.Search"
                    asp-route-pageSize="@Model.PageSize"
+                   asp-route-courseId="@ViewBag.CourseId"
                    asp-route-page="@(Model.Page - 1)">
                     Previous
                 </a>
@@ -120,6 +121,7 @@
                        asp-action="Index"
                        asp-route-search="@Model.Search"
                        asp-route-pageSize="@Model.PageSize"
+                       asp-route-courseId="@ViewBag.CourseId"
                        asp-route-page="@i">
                         @i
                     </a>
@@ -131,6 +133,7 @@
                    asp-action="Index"
                    asp-route-search="@Model.Search"
                    asp-route-pageSize="@Model.PageSize"
+                   asp-route-courseId="@ViewBag.CourseId"
                    asp-route-page="@(Model.Page + 1)">
                     Next
                 </a>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KzV0dlw1uw=",
+  "dgSpecHash": "XR1QfOYuH0E=",
   "success": true,
-  "projectFilePath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+  "projectFilePath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Tech\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\New Tech\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -150,9 +150,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.Mvc 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
-      "projectPath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "projectPath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "filePath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "libraryId": "Microsoft.AspNet.Mvc",
       "targetGraphs": [
         "net9.0"
@@ -162,9 +162,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.Razor 3.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
-      "projectPath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "projectPath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "filePath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "libraryId": "Microsoft.AspNet.Razor",
       "targetGraphs": [
         "net9.0"
@@ -174,9 +174,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.WebPages 3.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
-      "projectPath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "projectPath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "filePath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "libraryId": "Microsoft.AspNet.WebPages",
       "targetGraphs": [
         "net9.0"
@@ -186,9 +186,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.Web.Infrastructure 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
-      "projectPath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "projectPath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "filePath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "libraryId": "Microsoft.Web.Infrastructure",
       "targetGraphs": [
         "net9.0"

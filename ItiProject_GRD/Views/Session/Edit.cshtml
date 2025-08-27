@@ -1,0 +1,16 @@
+﻿@model ItiProject_GRD.BLL.ViewModels.SessionVM
+
+@{
+    ViewData["Title"] = "Edit Session";
+}
+
+<h2>Edit Session</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.AntiForgeryToken()
+    @await Html.PartialAsync("_SessionForm", Model)
+</form>
+
+<p>
+    <a asp-action="Index" asp-route-courseId="@Model.CourseId" class="btn btn-secondary">Back to Sessions</a>
+</p>
