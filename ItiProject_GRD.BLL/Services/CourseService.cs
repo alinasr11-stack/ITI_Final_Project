@@ -30,7 +30,7 @@ namespace ItiProject_GRD.BLL.Services
                 Description = c.Description,
                 StartDate = c.StartDate,
                 EndDate = c.EndDate,
-                InstructorId = c.InstructorId
+                InstructorId = (int)c.InstructorId
             });
         }
 
@@ -47,7 +47,7 @@ namespace ItiProject_GRD.BLL.Services
                 Description = course.Description,
                 StartDate = course.StartDate,
                 EndDate = course.EndDate,
-                InstructorId = course.InstructorId
+                InstructorId = (int)course.InstructorId
             };
         }
 
@@ -64,7 +64,7 @@ namespace ItiProject_GRD.BLL.Services
                 Description = course.Description,
                 StartDate = course.StartDate,
                 EndDate = course.EndDate,
-                InstructorId = course.InstructorId
+                InstructorId = (int)course.InstructorId
             };
         }
 
@@ -80,7 +80,7 @@ namespace ItiProject_GRD.BLL.Services
                 Description = c.Description,
                 StartDate = c.StartDate,
                 EndDate = c.EndDate,
-                InstructorId = c.InstructorId
+                InstructorId = (int)c.InstructorId
             });
         }
 

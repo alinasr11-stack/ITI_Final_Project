@@ -21,7 +21,7 @@ namespace ItiProject_GRD.DLL.Data
                 .HasOne(c => c.Instructor)
                 .WithMany(u => u.Courses)
                 .HasForeignKey(c => c.InstructorId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.SetNull);
 
             
             modelBuilder.Entity<Session>()
@@ -42,7 +42,7 @@ namespace ItiProject_GRD.DLL.Data
                 .HasOne(g => g.Trainee)
                 .WithMany(u => u.Grades)
                 .HasForeignKey(g => g.TraineeId)
-                .OnDelete(DeleteBehavior.Restrict);
+                .OnDelete(DeleteBehavior.SetNull);
 
             modelBuilder.Entity<User>().HasData(
                 new User { Id = 1, Name = "Naser Maher", Email = "admin@test.com", Role = Role.Admin },

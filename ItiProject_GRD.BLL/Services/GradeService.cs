@@ -27,7 +27,7 @@ namespace ItiProject_GRD.BLL.Services
                 Id = g.Id,
                 Value = g.Value,
                 SessionId = g.SessionId,
-                TraineeId = g.TraineeId
+                TraineeId = (int)g.TraineeId
             });
         }
 
@@ -41,7 +41,7 @@ namespace ItiProject_GRD.BLL.Services
                 Id = grade.Id,
                 Value = grade.Value,
                 SessionId = grade.SessionId,
-                TraineeId = grade.TraineeId
+                TraineeId = (int)grade.TraineeId
             };
         }
 
@@ -54,7 +54,7 @@ namespace ItiProject_GRD.BLL.Services
                 Id = g.Id,
                 Value = g.Value,
                 SessionId = g.SessionId,
-                TraineeId = g.TraineeId
+                TraineeId = (int)g.TraineeId
             });
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bgmwFWDIDAQ=",
+  "dgSpecHash": "zppt+D/PrJQ=",
   "success": true,
-  "projectFilePath": "E:\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj",
+  "projectFilePath": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Tech\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\New Tech\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

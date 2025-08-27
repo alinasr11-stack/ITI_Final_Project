@@ -76,14 +76,6 @@
                     <td>
                         <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-sm btn-warning">Edit</a>
                         <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-sm btn-danger">Delete</a>
-
-                        <!-- زرار Add Session -->
-                        <a asp-controller="Session" asp-action="Create" asp-route-courseId="@course.Id"
-                           class="btn btn-sm btn-success">Add Session</a>
-
-                        <!-- زرار View Sessions -->
-                        <a asp-controller="Session" asp-action="Index" asp-route-courseId="@course.Id"
-                           class="btn btn-sm btn-info">View Sessions</a>
                     </td>
                 </tr>
             }

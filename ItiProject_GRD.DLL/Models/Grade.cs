@@ -15,7 +15,7 @@ namespace ItiProject_GRD.DLL.Models
         public int SessionId { get; set; }
         public Session Session { get; set; }
 
-        public int TraineeId { get; set; }
+        public int? TraineeId { get; set; }
         public User Trainee { get; set; }
     }
 

@@ -24,7 +24,7 @@ namespace ItiProject_GRD.DLL.Models
         public string? Description { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        public int InstructorId { get; set; }
+        public int? InstructorId { get; set; }
         public User Instructor { get; set; }
 
         public ICollection<Session> Sessions { get; set; }

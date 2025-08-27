@@ -6920,11 +6920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "projectUniqueName": "D:\\ITI_Final_Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "projectName": "ItiProject_GRD",
-      "projectPath": "E:\\ITI.Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
+      "projectPath": "D:\\ITI_Final_Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
       "packagesPath": "C:\\Users\\New Tech\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI.Project\\ItiProject_GRD\\obj\\",
+      "outputPath": "D:\\ITI_Final_Project\\ItiProject_GRD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6945,8 +6945,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\ITI.Project\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj": {
-              "projectPath": "E:\\ITI.Project\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj"
+            "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj": {
+              "projectPath": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj"
             }
           }
         }

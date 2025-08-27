@@ -1,68 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ITI.Project\\ItiProject_GRD\\",
+  "WorkspaceRootPath": "D:\\ITI_Final_Project\\ItiProject_GRD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\shared\\_sessionform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\shared\\_sessionform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\session\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\session\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\session\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\itiproject_grd.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|e:\\iti.project\\itiproject_grd.bll\\viewmodels\\sessionlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\itiproject_grd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:itiproject_grd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\viewmodels\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\options\\paginationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:options\\paginationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\shared\\_userform.cshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\shared\\_userform.cshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|d:\\iti_final_project\\itiproject_grd.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210537_hg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\services\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|d:\\iti_final_project\\itiproject_grd.dll\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|d:\\iti_final_project\\itiproject_grd.dll\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\session\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\session\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\viewmodels\\userlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\viewmodels\\sessionlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29830B1-DCB9-41A9-A87F-13B37E5A3BED}|..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj|d:\\iti_final_project\\itiproject_grd.bll\\viewmodels\\sessionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\shared\\_sessionform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\shared\\_sessionform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\session\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\session\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\options\\paginationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:options\\paginationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\views\\shared\\_courseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\views\\shared\\_courseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:views\\shared\\_courseform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|e:\\iti.project\\itiproject_grd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|d:\\iti_final_project\\itiproject_grd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA044AE0-8C0A-4327-85CA-E2841207BB4D}|ItiProject_GRD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -115,6 +173,15 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ITI.Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|d:\\iti_final_project\\itiproject_grd.dll\\migrations\\20250827210802_aw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1D4335-281C-460F-8E56-CF57344D0E18}|..\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj|d:\\iti_final_project\\itiproject_grd.dll\\migrations\\20250827210256_dfg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -124,7 +191,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -136,128 +203,388 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Session\\Index.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Index.cshtml",
-              "RelativeToolTip": "Views\\Session\\Index.cshtml",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:36:44.027Z",
+              "DocumentIndex": 3,
+              "Title": "ItiProject_GRD.BLL",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ItiProject_GRD.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T21:28:59.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Session\\Delete.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Session\\Delete.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:35:18.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_SessionForm.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Shared\\_SessionForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_SessionForm.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Shared\\_SessionForm.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_SessionForm.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:33:44.609Z",
+              "DocumentIndex": 4,
+              "Title": "ItiProject_GRD",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
+              "RelativeDocumentMoniker": "ItiProject_GRD.csproj",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\ItiProject_GRD.csproj",
+              "RelativeToolTip": "ItiProject_GRD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T21:28:56.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Session\\Edit.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Session\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:32:36.263Z",
+              "WhenOpened": "2025-08-27T20:17:26.705Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T20:17:59.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:15:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T20:16:29.943Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Session\\Create.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Session\\Create.cshtml",
-              "RelativeToolTip": "Views\\Session\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T14:31:51.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T20:18:48.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessionController.cs",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Controllers\\SessionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SessionController.cs",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Controllers\\SessionController.cs",
-              "RelativeToolTip": "Controllers\\SessionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T14:17:25.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CourseController.cs",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Controllers\\CourseController.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Controllers\\CourseController.cs*",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Controllers\\CourseController.cs*",
               "RelativeToolTip": "Controllers\\CourseController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowDMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T09:06:44.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Index.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Index.cshtml",
               "RelativeToolTip": "Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-26T16:06:06.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SessionListVM.cs",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
-              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
-              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T13:41:10.77Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:17:13.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:13:42.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_UserForm.cshtml.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Shared\\_UserForm.cshtml.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_UserForm.cshtml.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Shared\\_UserForm.cshtml.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_UserForm.cshtml.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T20:14:30.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250827210802_aw.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210802_aw.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Migrations\\20250827210802_aw.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210802_aw.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Migrations\\20250827210802_aw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:08:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:51:55.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250827210537_hg.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210537_hg.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Migrations\\20250827210537_hg.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210537_hg.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Migrations\\20250827210537_hg.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:05:37.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250827210256_dfg.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210256_dfg.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Migrations\\20250827210256_dfg.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Migrations\\20250827210256_dfg.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Migrations\\20250827210256_dfg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:02:56.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradeService.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:02:08.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\Grade.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Models\\Grade.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:01:51.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.DLL\\Models\\Course.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\Models\\Course.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.DLL\\Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:55:08.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\Services\\CourseService.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\Services\\CourseService.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:56:18.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Delete.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Course\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T11:17:47.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Edit.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Session\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:32:36.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Delete.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Session\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:35:18.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserListVM.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\UserListVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\UserListVM.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\UserListVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\UserListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:13:24.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionListVM.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:05:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SessionVM.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "RelativeDocumentMoniker": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "RelativeToolTip": "..\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:55:05.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Index.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Index.cshtml",
+              "RelativeToolTip": "Views\\Session\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:36:44.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_SessionForm.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Shared\\_SessionForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SessionForm.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Shared\\_SessionForm.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SessionForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:33:44.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Session\\Create.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Session\\Create.cshtml",
+              "RelativeToolTip": "Views\\Session\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:31:51.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SessionController.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "Controllers\\SessionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:17:25.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SessionListVM.cs",
+              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
+              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD.BLL\\ViewModels\\SessionListVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:41:10.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\appsettings.json",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\appsettings.json",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -265,23 +592,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "CourseListVM.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\CourseListVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T16:05:21.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "PaginationOptions.cs",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Options\\PaginationOptions.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Options\\PaginationOptions.cs",
               "RelativeDocumentMoniker": "Options\\PaginationOptions.cs",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Options\\PaginationOptions.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Options\\PaginationOptions.cs",
               "RelativeToolTip": "Options\\PaginationOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,47 +614,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Course\\Delete.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Course\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T11:17:47.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "CourseVM.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\CourseVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:16:49.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Course\\Create.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Create.cshtml",
-              "RelativeToolTip": "Views\\Course\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-26T11:17:13.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "_CourseForm.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Shared\\_CourseForm.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Shared\\_CourseForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_CourseForm.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Shared\\_CourseForm.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Shared\\_CourseForm.cshtml",
               "RelativeToolTip": "Views\\Shared\\_CourseForm.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,11 +636,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Edit.cshtml",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Views\\Course\\Edit.cshtml",
               "RelativeToolTip": "Views\\Course\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -349,23 +648,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "ICourseService.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Services\\ICourseService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T18:46:14.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ITI.Project\\ItiProject_GRD\\Program.cs",
+              "DocumentMoniker": "D:\\ITI_Final_Project\\ItiProject_GRD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\ITI.Project\\ItiProject_GRD\\Program.cs",
+              "ToolTip": "D:\\ITI_Final_Project\\ItiProject_GRD\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,168 +670,140 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "Course.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.DLL\\Models\\Course.cs",
               "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\Course.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.DLL\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:13:02.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "SessionService.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Services\\SessionService.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAqwG8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T18:56:09.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "IUserService.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T19:01:58.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Services\\UserService.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Services\\UserService.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T19:02:39.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "IGradeService.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Services\\IGradeService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBGwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T19:04:43.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "GradeService.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Services\\GradeService.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAIBGwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T19:05:42.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "GradeVM.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\GradeVM.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBGwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:55:07.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 43,
               "Title": "UserVM.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\UserVM.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBGwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:49:55.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 44,
               "Title": "SessionVM.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\ViewModels\\SessionVM.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAABOwB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:47:07.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "DateAfterAttribute.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Vaildations\\DateAfterAttribute.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:34:12.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 46,
               "Title": "Session.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Models\\Session.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.DLL\\Models\\Session.cs",
               "ToolTip": "E:\\ItiProject_GRD.DLL\\Models\\Session.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.DLL\\Models\\Session.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBGwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:23:14.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
               "Title": "FutureDateAttribute.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Vaildations\\FutureDateAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:24:00.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 48,
               "Title": "NoNumberAttribute.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
               "ToolTip": "E:\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.BLL\\Vaildations\\NoNumberAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T17:22:52.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
               "ToolTip": "E:\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "..\\..\\ItiProject_GRD.DLL\\Data\\AppDbContext.cs",
               "ViewState": "AgIAADYAAAAAAAAAAMBSwBAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:35:51.729Z"

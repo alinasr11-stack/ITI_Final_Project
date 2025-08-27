@@ -39,7 +39,7 @@ namespace ItiProject_GRD.DLL.Migrations
                     b.Property<DateTime>("EndDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("InstructorId")
+                    b.Property<int?>("InstructorId")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
@@ -79,7 +79,7 @@ namespace ItiProject_GRD.DLL.Migrations
                     b.Property<int>("SessionId")
                         .HasColumnType("int");
 
-                    b.Property<int>("TraineeId")
+                    b.Property<int?>("TraineeId")
                         .HasColumnType("int");
 
                     b.Property<int>("Value")
@@ -216,8 +216,7 @@ namespace ItiProject_GRD.DLL.Migrations
                     b.HasOne("ItiProject_GRD.DLL.Models.User", "Instructor")
                         .WithMany("Courses")
                         .HasForeignKey("InstructorId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.Navigation("Instructor");
                 });
@@ -233,8 +232,7 @@ namespace ItiProject_GRD.DLL.Migrations
                     b.HasOne("ItiProject_GRD.DLL.Models.User", "Trainee")
                         .WithMany("Grades")
                         .HasForeignKey("TraineeId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.Navigation("Session");
 

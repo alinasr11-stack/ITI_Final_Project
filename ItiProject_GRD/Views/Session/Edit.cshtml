@@ -9,8 +9,8 @@
 <form asp-action="Edit" method="post">
     @Html.AntiForgeryToken()
     @await Html.PartialAsync("_SessionForm", Model)
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" asp-route-courseId="@Model.CourseId" class="btn btn-secondary">Cancel</a>
 </form>
 
-<p>
-    <a asp-action="Index" asp-route-courseId="@Model.CourseId" class="btn btn-secondary">Back to Sessions</a>
-</p>

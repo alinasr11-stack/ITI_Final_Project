@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj": {}
+    "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj": {}
   },
   "projects": {
-    "E:\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj": {
+    "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj",
+        "projectUniqueName": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj",
         "projectName": "ItiProject_GRD.DLL",
-        "projectPath": "E:\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj",
+        "projectPath": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\ItiProject_GRD.DLL.csproj",
         "packagesPath": "C:\\Users\\New Tech\\.nuget\\packages\\",
-        "outputPath": "E:\\ItiProject_GRD.DLL\\obj\\",
+        "outputPath": "D:\\ITI_Final_Project\\ItiProject_GRD.DLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

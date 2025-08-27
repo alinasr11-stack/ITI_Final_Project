@@ -49,7 +49,7 @@ namespace ItiProject_GRD.Controllers
                         Category = c.Category,
                         StartDate = c.StartDate,
                         EndDate = c.EndDate,
-                        InstructorId = c.InstructorId
+                        InstructorId = c.InstructorId??0
                     })
                     .ToListAsync();
 

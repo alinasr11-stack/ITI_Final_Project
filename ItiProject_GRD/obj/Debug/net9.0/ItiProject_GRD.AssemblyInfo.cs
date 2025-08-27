@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ItiProject_GRD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b24a3a0e5db52da5ee5140c629b3c847a88a0eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3949deefb7d5c7a52c79af13d3789e81c8212482")]
 [assembly: System.Reflection.AssemblyProductAttribute("ItiProject_GRD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ItiProject_GRD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
