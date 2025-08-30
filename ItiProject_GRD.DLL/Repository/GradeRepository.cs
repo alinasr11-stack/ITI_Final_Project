@@ -15,7 +15,11 @@ namespace ItiProject_GRD.DLL.Repository
 
         public async Task<IEnumerable<Grade>> GetGradesByTraineeIdAsync(int traineeId)
         {
-            return await _context.Grades.Include(g => g.Session).Where(g => g.TraineeId == traineeId).ToListAsync();
+            return await _context.Grades
+                .Include(g => g.Session)
+                    .ThenInclude(s => s.Course)  // << هنا ضفت الـ Include للكورس
+                .Where(g => g.TraineeId == traineeId)
+                .ToListAsync();
         }
     }
 

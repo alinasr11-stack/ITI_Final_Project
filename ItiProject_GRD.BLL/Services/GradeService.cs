@@ -27,21 +27,22 @@ namespace ItiProject_GRD.BLL.Services
                 Id = g.Id,
                 Value = g.Value,
                 SessionId = g.SessionId,
-                TraineeId = (int)g.TraineeId
+                TraineeId = (int)g.TraineeId,
+                CourseName = g.Session?.Course?.Name ?? "Unknown"
             });
         }
 
-        public async Task<GradeVM?> GetByIdAsync(int id)
+        public async Task<GradeVM> GetByIdAsync(int id)
         {
-            var grade = await _gradeRepo.GetByIdAsync(id);
-            if (grade == null) return null;
+            var g = await _gradeRepo.GetByIdAsync(id);
 
             return new GradeVM
             {
-                Id = grade.Id,
-                Value = grade.Value,
-                SessionId = grade.SessionId,
-                TraineeId = (int)grade.TraineeId
+                Id = g.Id,
+                Value = g.Value,
+                SessionId = g.SessionId,
+                TraineeId = (int)g.TraineeId,
+                CourseName = g.Session?.Course?.Name ?? "Unknown"
             };
         }
 
@@ -54,7 +55,8 @@ namespace ItiProject_GRD.BLL.Services
                 Id = g.Id,
                 Value = g.Value,
                 SessionId = g.SessionId,
-                TraineeId = (int)g.TraineeId
+                TraineeId = (int)g.TraineeId,
+                CourseName = g.Session?.Course?.Name ?? "Unknown"
             });
         }
 
@@ -74,8 +76,6 @@ namespace ItiProject_GRD.BLL.Services
         public async Task UpdateAsync(GradeVM vm)
         {
             var grade = await _gradeRepo.GetByIdAsync(vm.Id);
-            if (grade == null) return;
-
             grade.Value = vm.Value;
             grade.SessionId = vm.SessionId;
             grade.TraineeId = vm.TraineeId;
@@ -87,8 +87,6 @@ namespace ItiProject_GRD.BLL.Services
         public async Task DeleteAsync(int id)
         {
             var grade = await _gradeRepo.GetByIdAsync(id);
-            if (grade == null) return;
-
             _gradeRepo.Delete(grade);
             await _gradeRepo.SaveAsync();
         }

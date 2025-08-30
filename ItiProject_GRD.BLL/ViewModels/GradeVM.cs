@@ -20,5 +20,6 @@ namespace ItiProject_GRD.BLL.ViewModels
 
         [Required(ErrorMessage = "Trainee is required")]
         public int TraineeId { get; set; }
+        public string? CourseName { get; set; }
     }
 }
